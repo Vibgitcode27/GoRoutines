@@ -1,6 +1,14 @@
 package main
 
 func main() {
-
-	channelsImplementation()
+	// iterationClosing()
+	// SelectInChannels()
+	// waitGroup()
+	// mutex()
+	// Once()
+	// resoursePool()
+	// cond()
+	// condImplementation()
+	// SandB()
+	Map()
 }
